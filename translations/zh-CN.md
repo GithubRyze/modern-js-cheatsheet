@@ -391,3 +391,6 @@ console.log(myFunc(null)) // null -- 提供了 (null) , 见一下详细解释
 - *undefined* 参数被提供的时候
 
 换句话说，如果你传入*NULL* 默认值**将不会生效**
+### 相关资料
+- [Default parameter value - ES6 Features](http://es6-features.org/#DefaultParameterValues)
+- [Default parameters - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
